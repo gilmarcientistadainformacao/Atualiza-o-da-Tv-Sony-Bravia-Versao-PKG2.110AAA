@@ -32,7 +32,7 @@ Caso o Televisor esteja funcionando vai precisar:
 
 -------------- Deu problema na hora de Atualizar!!!---
 
-1. informe para mim no chat do Cliente do Mercado Livre que apresentou problema durante na instalação.
+1. informe para mim.
 
 2. Existe alguns erros mais comuns como :
 *Pen drive não reconhece : Existe duas marcas de pen drive que dão problema na hora de atualizar que são SanDisk e Kingston . Troca de pen drive e faça o procedimento novamente.
